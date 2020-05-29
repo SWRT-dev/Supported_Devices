@@ -39,3 +39,6 @@ Supported Devices
 
 * [SBR-AC1900P](https://github.com/MerlinRdev/sbrac1900p)
 * [SBR-AC3200P](https://github.com/MerlinRdev/sbrac3200p)
+
+**莱科/LUXUL：**
+* [XWR-3100, XWR-3150](https://github.com/MerlinRdev/K3-merlin.ng) (use the XWR-3100 firmware)
