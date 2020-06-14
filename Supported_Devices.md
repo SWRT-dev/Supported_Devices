@@ -29,6 +29,7 @@ Supported Devices
 
 **网件/NETGEAR：**
 
+* [R7000P](https://github.com/MerlinRdev/r7000p)
 * [R7900P, R7960P, R8000P](https://github.com/MerlinRdev/r8000p) (use the R8000P firmware)
 
 **领势/LINKSYS：**
