@@ -43,3 +43,7 @@ Supported Devices
 
 **莱科/LUXUL：**
 * [XWR-3100, XWR-3150](https://github.com/MerlinRdev/K3-merlin.ng) (use the XWR-3100 firmware)
+
+**红米/REDMI：**
+* [RM-AC2100](https://github.com/MerlinRdev/ac85p-merlin) (use the RT-AC85P code)
+
