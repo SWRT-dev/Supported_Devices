@@ -6,7 +6,7 @@ Supported Devices
  * [RT-AC88U](https://github.com/MerlinRdev/rtac88u-merlin)
  * RT-AC3100
  * RT-AC3200
- * RT-AC5300
+ * [RT-AC5300](https://github.com/MerlinRdev/rt-ac5300)
  * [RT-AC86U](https://github.com/MerlinRdev/86u-merlin)
  * [GT-AC2900](https://github.com/MerlinRdev/gtac2900-merlin)
  * [GT-AC5300](https://github.com/MerlinRdev/gtac5300-merlin)
