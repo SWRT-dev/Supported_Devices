@@ -48,3 +48,5 @@ Supported Devices
 **红米/REDMI：**
 * [RM-AC2100](https://github.com/MerlinRdev/ac85p-merlin) (use the RT-AC85P code)
 
+**天邑/TIANYI：**
+* [TY6201](https://github.com/MerlinRdev/ty6201) (rtl8367&bcm53134)
