@@ -13,6 +13,7 @@ Supported Devices
  * RT-AX88U
  * GT-AX11000
  * RT-AX56U
+ * [RT-AX58U, RT-AX3000](https://github.com/MerlinRdev/rt-ax58u) (use the RT-AX58U firmware)
  * [TUF-AX3000](https://github.com/MerlinRdev/tuf-ax3000)
  * [BLUECAVE](https://github.com/MerlinRdev/bluecave-merlin)
  * [RT-AC85P](https://github.com/MerlinRdev/ac85p-merlin)
