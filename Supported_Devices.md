@@ -51,3 +51,6 @@ Supported Devices
 
 **天邑/TIANYI：**
 * [TY6201](https://github.com/MerlinRdev/ty6201) (rtl8367&bcm53134)
+
+**贝尔金/BELKIN：**
+* [F9K1118v2](https://github.com/MerlinRdev/f9k1118v2)
