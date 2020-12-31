@@ -19,7 +19,7 @@ Supported Devices
  * [RT-AC85P](https://github.com/MerlinRdev/ac85p-merlin)
  * [RT-ACRH17, RT-AC2200](https://github.com/MerlinRdev/acrh17-merlin) (use the RT-ACRH17 firmware)
  * RT-AX92U
- * RT-AX89X
+ * [RT-AX89X](https://github.com/MerlinRdev/rtax89x)
  * RT-AX95Q
  * [RT-AX86U](https://github.com/MerlinRdev/rtax86u)
 
