@@ -1,6 +1,6 @@
 Firmware Download
 -----------------
-**ASUS：**
+**华硕/ASUS:**
 
  * [RT-AC66U_B1, RT-AC68U, RT-AC68P, RT-AC1900, RT-AC1900P, TM-AC1900](https://mega.nz/folder/RU8yWTwR#CARSgNhGHVswk_F3os21Vw)  [Branch:386]
  * RT-AC88U  [Branch:386]
@@ -28,13 +28,13 @@ Firmware Download
 
 
 
-**PHICOMM：**
+**斐讯/PHICOMM:**
 
 * K3 [Branch:386]
 * K3C [Branch:384]
 
 
-**NETGEAR：**
+**网件/NETGEAR:**
 
 * R8500 [Branch:386]
 * R6900P, R7000P [Branch:385]
@@ -42,36 +42,41 @@ Firmware Download
 * RAX120 [Branch:386]
 
 
-**LINKSYS：**
+**领势/LINKSYS:**
 
 * [EA6700](https://mega.nz/folder/RFtCTTaS#ezM3Ihig0pIKwEUc6y0dOQ)  [Branch:386]
 
 
-**ARRIS：**
+**ARRIS:**
 
 * SBR-AC1900P [Branch:386]
 * SBR-AC3200P [Branch:382]
 
 
-**LUXUL：**
+**LUXUL:**
 
 * XWR-3100, XWR-3150 [Branch:386]
 
 
-**REDMI：**
+**红米/REDMI:**
 
 * RM-AC2100 [Branch:382]
 
 
-**TIANYI：**
+**天邑/TIANYI:**
 
 * TY6201_rtk [Branch:386]
 * TY6201_bcm [Branch:386]
 
 
-**BELKIN：**
+**贝尔金/BELKIN:**
 
 * F9K1118v2 [Branch:386]
+
+**友讯/DLINK:**
+
+* DIR868L [Branch:386]
+
 
 -----------------
 
@@ -83,4 +88,4 @@ Thank You for support.
 
 ### PayPal
 
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://paypal.me/paldier/)
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://paypal.me/paldier9/)
