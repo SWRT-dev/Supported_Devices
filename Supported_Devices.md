@@ -72,3 +72,7 @@ Supported Devices
 **贝尔金/BELKIN：**
 
 * [F9K1118v2](https://github.com/MerlinRdev/f9k1118v2)
+
+**友讯/DLINK：**
+
+ * DIR868L
