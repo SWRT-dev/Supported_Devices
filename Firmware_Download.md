@@ -25,6 +25,9 @@ Firmware Download
  * BLUECAVE [Branch:384]
  * RT-AC85P [Branch:382]
  * RT-ACRH17, RT-AC2200 [Branch:382]
+ * RT-ACRH17, RT-AC2200 [Branch:386]
+ * ZENWIFI-CT8, RT-AC95U [Branch:386]
+
 
 
 
