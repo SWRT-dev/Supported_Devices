@@ -25,7 +25,8 @@ Supported Devices
  * [BLUECAVE](https://github.com/MerlinRdev/bluecave-merlin)
  * [RT-AC85P](https://github.com/MerlinRdev/ac85p-merlin)
  * [RT-ACRH17, RT-AC2200](https://github.com/MerlinRdev/acrh17-merlin) (use the RT-ACRH17 firmware)
-
+ * [RT-ACRH17, RT-AC2200 aimesh](https://github.com/MerlinRdev/acrh17-aimesh) (use the RT-ACRH17 firmware)
+ * [ZENWIFI-CT8, RT-AC95U](https://github.com/MerlinRdev/rt-ac95u) (use the RT-AC95U firmware)
 
 
 **斐讯/PHICOMM：**
@@ -60,7 +61,7 @@ Supported Devices
 
 **红米/REDMI：**
 
-* [RM-AC2100](https://github.com/MerlinRdev/ac85p-merlin) (use the RT-AC85P code，)
+* [RM-AC2100](https://github.com/MerlinRdev/ac85p-merlin) (use the RT-AC85P code)
 
 
 **天邑/TIANYI：**
@@ -73,6 +74,8 @@ Supported Devices
 
 * [F9K1118v2](https://github.com/MerlinRdev/f9k1118v2)
 
+
 **友讯/DLINK：**
 
- * DIR868L
+* [DIR868L](https://github.com/MerlinRdev/ea6700) (use the ea6700 code)
+
