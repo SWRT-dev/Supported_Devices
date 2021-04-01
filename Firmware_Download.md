@@ -23,7 +23,7 @@ Firmware Download
  * RT-AX95Q [Branch:386]
  * GT-AX11000 [Branch:386]
  * BLUECAVE [Branch:384]
- * RT-AC85P [Branch:382]
+ * [RT-AC85P](https://mega.nz/folder/FZ9xVK6K#WvvfkZSaKa-sepGN3Rw7ng) [Branch:382]
  * RT-ACRH17, RT-AC2200 [Branch:382]
  * RT-ACRH17, RT-AC2200 [Branch:386]
  * ZENWIFI-CT8, RT-AC95U [Branch:386]
