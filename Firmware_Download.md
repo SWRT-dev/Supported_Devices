@@ -3,7 +3,7 @@ Firmware Download
 **华硕/ASUS:**
 
  * [RT-AC66U_B1, RT-AC68U, RT-AC68P, RT-AC1900, RT-AC1900P, TM-AC1900](https://mega.nz/folder/RU8yWTwR#CARSgNhGHVswk_F3os21Vw)  [Branch:386]
- * RT-AC88U  [Branch:386]
+ * [RT-AC88U](https://mega.nz/folder/EBFlxSyJ#rfB2pGgG_UGreFXNuM_iuA)  [Branch:386]
  * RT-AC3100 [Branch:386]
  * RT-AC3200 [Branch:382]
  * [RT-AC5300](https://mega.nz/folder/QRtVhSSb#Vsg69evoJMn5iFzjLVgQXg) [Branch:386]
