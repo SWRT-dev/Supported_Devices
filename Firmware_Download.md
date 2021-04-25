@@ -63,7 +63,7 @@ Firmware Download
 
 **红米/REDMI:**
 
-* RM-AC2100 [Branch:382]
+* [RM-AC2100](https://mega.nz/folder/9BtXVCRY#laNmbn13RO8mqd5tVTasZQ) [Branch:382]
 
 
 **天邑/TIANYI:**
