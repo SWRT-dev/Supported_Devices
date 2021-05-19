@@ -3,13 +3,13 @@ Supported Devices
 **华硕/ASUS：**
 
  * [RT-AC66U_B1, RT-AC68U, RT-AC68P, RT-AC1900, RT-AC1900P](https://github.com/SWRT-dev/rtac68u) (use the RT-AC68U firmware)
- * [RT-AC88U](https://github.com/SWRT-dev/rtac88u-merlin)
+ * [RT-AC88U](https://github.com/SWRT-dev/rtac88u-asuswrt)
  * RT-AC3100
  * RT-AC3200
  * [RT-AC5300](https://github.com/SWRT-dev/rt-ac5300)
- * [RT-AC86U](https://github.com/SWRT-dev/86u-merlin)
- * [GT-AC2900](https://github.com/SWRT-dev/gtac2900-merlin)
- * [GT-AC5300](https://github.com/SWRT-dev/gtac5300-merlin)
+ * [RT-AC86U](https://github.com/SWRT-dev/86u-asuswrt)
+ * [GT-AC2900](https://github.com/SWRT-dev/gtac2900-asuswrt)
+ * [GT-AC5300](https://github.com/SWRT-dev/gtac5300-asuswrt)
  * [RT-AX55](https://github.com/SWRT-dev/rt-ax55)
  * [RT-AX56U](https://github.com/SWRT-dev/rt-ax56u)
  * [RT-AX58U, RT-AX3000](https://github.com/SWRT-dev/rt-ax58u) (use the RT-AX58U firmware)
@@ -22,9 +22,9 @@ Supported Devices
  * RT-AX92U
  * RT-AX95Q
  * GT-AX11000
- * [BLUECAVE](https://github.com/SWRT-dev/bluecave-merlin)
- * [RT-AC85P](https://github.com/SWRT-dev/ac85p-merlin)
- * [RT-ACRH17, RT-AC2200](https://github.com/SWRT-dev/acrh17-merlin) (use the RT-ACRH17 firmware)
+ * [BLUECAVE](https://github.com/SWRT-dev/bluecave-asuswrt)
+ * [RT-AC85P](https://github.com/SWRT-dev/ac85p-asuswrt)
+ * [RT-ACRH17, RT-AC2200](https://github.com/SWRT-dev/acrh17-asuswrt) (use the RT-ACRH17 firmware)
  * [RT-ACRH17, RT-AC2200 aimesh](https://github.com/SWRT-dev/acrh17-aimesh) (use the RT-ACRH17 firmware)
  * [ZENWIFI-CT8, RT-AC95U](https://github.com/SWRT-dev/rt-ac95u) (use the RT-AC95U firmware)
 
@@ -61,7 +61,7 @@ Supported Devices
 
 **红米/REDMI：**
 
-* [RM-AC2100](https://github.com/SWRT-dev/ac85p-merlin) (use the RT-AC85P code)
+* [RM-AC2100](https://github.com/SWRT-dev/ac85p-asuswrt) (use the RT-AC85P code)
 
 
 **天邑/TIANYI：**
