@@ -13,3 +13,5 @@ Update smartdns to support secondary dns configuration.
 Add support of RAX120/AX89X/CT8.
 
 All IPQ4019 series support overclocking.
+
+Fix softcenter cgi for bcm675x and qca.
