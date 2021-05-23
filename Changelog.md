@@ -6,6 +6,8 @@
 
 Fix softcenter cgi.
 
+Add tuxera driver for ac85p.
+
 ###5.1.6
 
 Add entware and ui for all chip series.
