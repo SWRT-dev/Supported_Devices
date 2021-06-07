@@ -4,6 +4,8 @@
 
 ###5.1.5
 
+Add support of AX82U.
+
 Fix softcenter cgi.
 
 Add tuxera driver for ac85p.
