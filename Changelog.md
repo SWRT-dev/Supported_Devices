@@ -6,6 +6,8 @@
 
 Add support of AX82U.
 
+Unlock the Gundam skin for all AX82U.
+
 Fix softcenter cgi.
 
 Add tuxera driver for ac85p.
