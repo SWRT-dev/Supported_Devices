@@ -15,7 +15,7 @@ Firmware Download
  * RT-AX58U, RT-AX3000 [Branch:386]
  * [TUF-AX3000](https://mega.nz/folder/0EUwRTYJ#a1ZdzjONXRt5gpeJ171xbA) [Branch:386]
  * RT-AX68U [Branch:386]
- * RT-AX82U [Branch:386]
+ * [RT-AX82U](https://mega.nz/folder/IN8lAK7I#Fv7LWqcu2xeARQeFdL1S2A) [Branch:386]
  * RT-AX86U [Branch:386]
  * RT-AX88U [Branch:386]
  * RT-AX89X [Branch:386]
