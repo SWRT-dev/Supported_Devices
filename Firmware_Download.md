@@ -39,6 +39,7 @@ Firmware Download
 
 **网件/NETGEAR:**
 
+* 6300V2 [Branch:386]
 * R8500 [Branch:386]
 * R6900P, R7000P [Branch:385]
 * R7900P, R7960P, R8000P [Branch:386]
