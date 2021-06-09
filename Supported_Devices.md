@@ -37,7 +37,7 @@ Supported Devices
 
 **网件/NETGEAR：**
 
-* [6300V2](https://github.com/SWRT-dev/ea6700) (use the ea6700 code)
+* [R6300V2](https://github.com/SWRT-dev/ea6700) (use the ea6700 code)
 * [R8500](https://github.com/SWRT-dev/r8500)
 * [R6900P, R7000P](https://github.com/SWRT-dev/r7000p) (use the R7000P firmware)
 * [R7900P, R7960P, R8000P](https://github.com/SWRT-dev/r8000p) (use the R8000P firmware)
