@@ -14,6 +14,9 @@ Supported Devices
  * [RT-AX56U](https://github.com/SWRT-dev/rt-ax56u)
  * [RT-AX58U, RT-AX3000](https://github.com/SWRT-dev/rt-ax58u) (use the RT-AX58U firmware)
  * [TUF-AX3000](https://github.com/SWRT-dev/tuf-ax3000)
+ * TUF-AX5400
+ * GS-AX3000
+ * GS-AX5400
  * RT-AX68U
  * RT-AX82U
  * [RT-AX86U](https://github.com/SWRT-dev/rtax86u)
