@@ -25,4 +25,6 @@
 
 * Add tuxera driver for ac85p.
 
+* Fix hnd series nf_conntrack expectation table full.
+
 
