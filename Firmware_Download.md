@@ -12,7 +12,7 @@ Firmware Download
  * [GT-AC5300](https://mega.nz/folder/pRt1mIpK#_i40UQFawo2ZXO3lHfgfnw) [Branch:386]
  * RT-AX55 [Branch:386]
  * RT-AX56U [Branch:386]
- * RT-AX58U, RT-AX3000 [Branch:386]
+ * [RT-AX58U, RT-AX3000](https://mega.nz/folder/5Z93jC4L#sE4tRyO431Aisu10Ifz_9A) [Branch:386]
  * [TUF-AX3000](https://mega.nz/folder/0EUwRTYJ#a1ZdzjONXRt5gpeJ171xbA) [Branch:386]
  * TUF-AX5400 [Branch:386]
  * GS-AX3000 [Branch:386]
