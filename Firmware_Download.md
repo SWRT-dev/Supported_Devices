@@ -21,7 +21,7 @@ Firmware Download
  * [RT-AX82U](https://mega.nz/folder/IN8lAK7I#Fv7LWqcu2xeARQeFdL1S2A) [Branch:386]
  * RT-AX86U [Branch:386]
  * RT-AX88U [Branch:386]
- * RT-AX89X [Branch:386]
+ * [RT-AX89X](https://mega.nz/folder/QVcg1TbT#FZEuVxWJQejBJj2tEiur-w) [Branch:386]
  * RT-AX92U [Branch:386]
  * RT-AX95Q [Branch:386]
  * GT-AX11000 [Branch:386]
