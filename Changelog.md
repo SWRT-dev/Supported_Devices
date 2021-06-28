@@ -15,6 +15,8 @@
 
 * All IPQ401x series support overclocking.
 
+* Add fullcone for lantiq/mtk/qca/bcm4709.
+
 ### 5.1.5
 
 * Add support of AX82U/R6300V2.
