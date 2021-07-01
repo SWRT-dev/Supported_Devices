@@ -13,6 +13,12 @@
 
 * Add support of RAX120/AX89X/CT8.
 
+* Add support of R6800.
+
+* Add SX1503 driver.
+
+* Update bled driver to support SX1503.
+
 * All IPQ401x series support overclocking.
 
 * Add fullcone for lantiq/mtk/qca/bcm4709.
