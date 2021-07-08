@@ -21,7 +21,10 @@
 
 * All IPQ401x series support overclocking.
 
-* Add fullcone for lantiq/mtk/qca/bcm4709.
+* Add fullcone for lantiq/mtk/qca.
+
+* Fix r7000p wl driver bug.
+
 
 ### 5.1.5
 
