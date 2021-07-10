@@ -25,6 +25,8 @@
 
 * Fix r7000p wl driver bug.
 
+* ACRH17/AC2200 Merged 382.52517.
+
 
 ### 5.1.5
 
