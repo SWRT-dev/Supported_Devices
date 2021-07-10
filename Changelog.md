@@ -25,7 +25,10 @@
 
 * Fix r7000p wl driver bug.
 
-* ACRH17/AC2200 Merged 382.52517.
+* ACRH17/AC2200 merged 382.52517.
+
+* SBRAC3200P/AC3200 merged 382.52545.
+* BLUECAVE/K3C merged 384.46630.
 
 
 ### 5.1.5
