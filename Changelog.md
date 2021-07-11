@@ -13,7 +13,7 @@
 
 * Add support of RAX120/AX89X/CT8.
 
-* Add support of R6800.
+* Add support of R6700v2/R6800/R6900v2.
 
 * Add SX1503 driver.
 
@@ -28,6 +28,7 @@
 * ACRH17/AC2200 merged 382.52517.
 
 * SBRAC3200P/AC3200 merged 382.52545.
+
 * BLUECAVE/K3C merged 384.46630.
 
 
