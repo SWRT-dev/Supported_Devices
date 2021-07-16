@@ -42,8 +42,8 @@ Firmware Download
 
 **网件/NETGEAR:**
 
-* R6300V2 [Branch:386]
-* R6700v2, R6800, R6900v2 [Branch:382]
+* [R6300V2](https://mega.nz/folder/tc0yCZzL#R5TyLYoNBrXAWEKNTJdgOg) [Branch:386]
+* [R6700v2, R6800, R6900v2](https://mega.nz/folder/0Y92XLCR#CwHXRNLOBelaLVk3TyxvmQ) [Branch:382]
 * R8500 [Branch:386]
 * R6900P, R7000P [Branch:385]
 * R7900P, R7960P, R8000P [Branch:386]
