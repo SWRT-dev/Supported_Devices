@@ -31,6 +31,7 @@
 
 * BLUECAVE/K3C merged 384.46630.
 
+* RAX120/AX89X merged 386.23012.
 
 ### 5.1.5
 
