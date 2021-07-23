@@ -17,11 +17,9 @@
 
 * Add SX1503 driver.
 
-* Update bled driver to support SX1503.
-
 * All IPQ401x series support overclocking.
 
-* Add fullcone for lantiq/mtk/qca.
+* Add fullcone for lantiq/mtk/qca/bcm.
 
 * Fix r7000p wl driver bug.
 
