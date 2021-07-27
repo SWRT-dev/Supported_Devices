@@ -29,6 +29,8 @@ Supported Devices
  * [RT-AC85P](https://github.com/SWRT-dev/ac85p-asuswrt)
  * [RT-ACRH17, RT-AC2200](https://github.com/SWRT-dev/acrh17-asuswrt) (use the RT-ACRH17 firmware)
  * [RT-ACRH17, RT-AC2200 aimesh](https://github.com/SWRT-dev/acrh17-aimesh) (use the RT-ACRH17 firmware)
+ * [RT-ACRH18]
+ * [RT-AX53U]
  * [ZENWIFI-CT8, RT-AC95U](https://github.com/SWRT-dev/rt-ac95u) (use the RT-AC95U firmware)
 
 
