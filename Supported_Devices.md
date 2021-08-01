@@ -10,6 +10,7 @@ Supported Devices
  * [RT-AC86U](https://github.com/SWRT-dev/86u-asuswrt)
  * [GT-AC2900](https://github.com/SWRT-dev/gtac2900-asuswrt)
  * [GT-AC5300](https://github.com/SWRT-dev/gtac5300-asuswrt)
+ * RT-AX53U
  * [RT-AX55](https://github.com/SWRT-dev/rt-ax55)
  * [RT-AX56U](https://github.com/SWRT-dev/rt-ax56u)
  * [RT-AX58U, RT-AX3000](https://github.com/SWRT-dev/rt-ax58u) (use the RT-AX58U firmware)
@@ -23,15 +24,15 @@ Supported Devices
  * RT-AX88U
  * [RT-AX89X](https://github.com/SWRT-dev/rtax89x)
  * RT-AX92U
- * RT-AX95Q
  * GT-AX11000
+ * GT-AXE11000
  * [BLUECAVE](https://github.com/SWRT-dev/bluecave-asuswrt)
  * [RT-AC85P](https://github.com/SWRT-dev/ac85p-asuswrt)
  * [RT-ACRH17, RT-AC2200](https://github.com/SWRT-dev/acrh17-asuswrt) (use the RT-ACRH17 firmware)
  * [RT-ACRH17, RT-AC2200 aimesh](https://github.com/SWRT-dev/acrh17-aimesh) (use the RT-ACRH17 firmware)
  * [RT-ACRH18]
- * [RT-AX53U]
- * [ZENWIFI-CT8, RT-AC95U](https://github.com/SWRT-dev/rt-ac95u) (use the RT-AC95U firmware)
+ * [ZENWIFI-CT8, RT-AC95U](https://github.com/SWRT-dev/rt-ac95u)
+ * ZENWIFI-XT8, RT-AX95Q
 
 
 **斐讯/PHICOMM：**
