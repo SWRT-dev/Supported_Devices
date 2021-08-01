@@ -10,6 +10,7 @@ Firmware Download
  * [RT-AC86U](https://mega.nz/folder/MAVRHCQY#MURd2OUURo4rBhEkDGlo5Q) [Branch:386]
  * [GT-AC2900](https://mega.nz/folder/NF0wwaIA#e0VUxrey2fZzCnKUlFNmrg) [Branch:386]
  * [GT-AC5300](https://mega.nz/folder/pRt1mIpK#_i40UQFawo2ZXO3lHfgfnw) [Branch:386]
+ * RT-AX53U [Branch:382]
  * RT-AX55 [Branch:386]
  * RT-AX56U [Branch:386]
  * [RT-AX58U, RT-AX3000](https://mega.nz/folder/5Z93jC4L#sE4tRyO431Aisu10Ifz_9A) [Branch:386]
@@ -23,13 +24,16 @@ Firmware Download
  * RT-AX88U [Branch:386]
  * [RT-AX89X](https://mega.nz/folder/QVcg1TbT#FZEuVxWJQejBJj2tEiur-w) [Branch:386]
  * RT-AX92U [Branch:386]
- * RT-AX95Q [Branch:386]
  * GT-AX11000 [Branch:386]
+ * GT-AXE11000 [Branch:386]
  * [BLUECAVE](https://mega.nz/folder/kQ1wFKpR#W1b6VzWymADrqRO9Hhemnw) [Branch:384]
  * [RT-AC85P](https://mega.nz/folder/FZ9xVK6K#WvvfkZSaKa-sepGN3Rw7ng) [Branch:382]
  * [RT-ACRH17, RT-AC2200](https://mega.nz/folder/BB9xDQxR#eLYYJfN3_zQkyqt0WHYRmQ) [Branch:382]
  * RT-ACRH17, RT-AC2200 [Branch:386]
+ * RT-ACRH18 [Branch:382]
  * ZENWIFI-CT8, RT-AC95U [Branch:386]
+ * ZENWIFI-XT8, RT-AX95Q [Branch:386]
+
 
 
 
