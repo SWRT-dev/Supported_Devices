@@ -33,6 +33,9 @@ Supported Devices
  * [RT-ACRH18]
  * [ZENWIFI-CT8, RT-AC95U](https://github.com/SWRT-dev/rt-ac95u)
  * ZENWIFI-XT8, RT-AX95Q
+ * ZENWIFI-ET8
+ * ZENWIFI-ET10
+ * ZENWIFI-XP4
 
 
 **斐讯/PHICOMM：**
