@@ -29,7 +29,6 @@ Supported Devices
  * [BLUECAVE](https://github.com/SWRT-dev/bluecave-asuswrt)
  * [RT-AC85P](https://github.com/SWRT-dev/ac85p-asuswrt)
  * [RT-ACRH17, RT-AC2200](https://github.com/SWRT-dev/acrh17-asuswrt) (use the RT-ACRH17 firmware)
- * [RT-ACRH17, RT-AC2200 aimesh](https://github.com/SWRT-dev/acrh17-aimesh) (use the RT-ACRH17 firmware)
  * [RT-ACRH18]
  * [ZENWIFI-CT8, RT-AC95U](https://github.com/SWRT-dev/rt-ac95u)
  * ZENWIFI-XT8, RT-AX95Q
@@ -47,7 +46,7 @@ Supported Devices
 **网件/NETGEAR：**
 
 * [R6300V2](https://github.com/SWRT-dev/ea6700) (use the ea6700 code)
-* [R6700v2, R6800, R6900v2](https://github.com/SWRT-dev/ac85p-asuswrt) (use the R6800 firmware)
+* [R6700v2, R6800, R6900v2, AC2400](https://github.com/SWRT-dev/ac85p-asuswrt) (use the R6800 firmware)
 * [R8500](https://github.com/SWRT-dev/r8500)
 * [R6900P, R7000P](https://github.com/SWRT-dev/r7000p) (use the R7000P firmware)
 * [R7900P, R7960P, R8000P](https://github.com/SWRT-dev/r8000p) (use the R8000P firmware)
