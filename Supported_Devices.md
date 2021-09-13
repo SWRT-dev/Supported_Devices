@@ -27,7 +27,7 @@ Supported Devices
  * GT-AX11000
  * GT-AXE11000
  * [BLUECAVE](https://github.com/SWRT-dev/bluecave-asuswrt)
- * [RT-AC85P](https://github.com/SWRT-dev/ac85p-asuswrt)
+ * [RT-AC85P, RT-AC65P](https://github.com/SWRT-dev/ac85p-asuswrt) (use the RT-AC85P firmware)
  * [RT-ACRH17, RT-AC2200](https://github.com/SWRT-dev/acrh17-asuswrt) (use the RT-ACRH17 firmware)
  * [RT-ACRH18]
  * [ZENWIFI-CT8, RT-AC95U](https://github.com/SWRT-dev/rt-ac95u)
