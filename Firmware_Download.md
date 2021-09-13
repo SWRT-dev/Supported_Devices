@@ -27,7 +27,7 @@ Firmware Download
  * GT-AX11000 [Branch:386]
  * GT-AXE11000 [Branch:386]
  * [BLUECAVE](https://mega.nz/folder/kQ1wFKpR#W1b6VzWymADrqRO9Hhemnw) [Branch:384]
- * [RT-AC85P](https://mega.nz/folder/FZ9xVK6K#WvvfkZSaKa-sepGN3Rw7ng) [Branch:382]
+ * [RT-AC85P, RT-AC65P](https://mega.nz/folder/FZ9xVK6K#WvvfkZSaKa-sepGN3Rw7ng) [Branch:382]
  * [RT-ACRH17, RT-AC2200](https://mega.nz/folder/BB9xDQxR#eLYYJfN3_zQkyqt0WHYRmQ) [Branch:382]
  * RT-ACRH17, RT-AC2200 [Branch:386]
  * RT-ACRH18 [Branch:382]
