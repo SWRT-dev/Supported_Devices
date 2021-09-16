@@ -2,6 +2,14 @@
 
 ============================
 
+### 5.1.7
+
+* Add 802.11k/v/r for mt7615.
+
+* Add repeater mode for mtk series.
+
+* update smartdns to f50e4dd.
+
 
 ### 5.1.6
 
@@ -11,7 +19,7 @@
 
 * Update smartdns to support secondary dns configuration.
 
-* Add support of RAX120/AX89X/CT8.
+* Add support of RAX120/AX89X.
 
 * Add support of R6700v2/R6800/R6900v2.
 
