@@ -13,6 +13,7 @@ Supported Devices
  * RT-AX53U
  * [RT-AX55](https://github.com/SWRT-dev/rt-ax55)
  * [RT-AX56U](https://github.com/SWRT-dev/rt-ax56u)
+ * RT-AX58U_V2
  * [RT-AX58U, RT-AX3000](https://github.com/SWRT-dev/rt-ax58u) (use the RT-AX58U firmware)
  * [TUF-AX3000](https://github.com/SWRT-dev/tuf-ax3000)
  * TUF-AX5400
@@ -26,14 +27,17 @@ Supported Devices
  * RT-AX92U
  * GT-AX11000
  * GT-AXE11000
+ * GT-AXE16000
  * [BLUECAVE](https://github.com/SWRT-dev/bluecave-asuswrt)
  * [RT-AC85P, RT-AC65P](https://github.com/SWRT-dev/ac85p-asuswrt) (use the RT-AC85P firmware)
  * [RT-ACRH17, RT-AC2200](https://github.com/SWRT-dev/acrh17-asuswrt) (use the RT-ACRH17 firmware)
  * [RT-ACRH18]
  * [ZENWIFI-CT8, RT-AC95U](https://github.com/SWRT-dev/rt-ac95u)
- * ZENWIFI-XT8, RT-AX95Q
+ * ZENWIFI-XT8
+ * ZENWIFI-XT12
  * ZENWIFI-ET8
  * ZENWIFI-ET10
+ * ZENWIFI-ET12
  * ZENWIFI-XP4
 
 
