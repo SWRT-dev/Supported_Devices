@@ -51,7 +51,7 @@ Firmware Download
 * R8500 [Branch:386]
 * R6900P, R7000P [Branch:385]
 * R7900P, R7960P, R8000P [Branch:386]
-* RAX120 [Branch:386]
+* [RAX120](https://mega.nz/folder/1NkRlCZY#8JOs5d02yJgRFov2wxbziA) [Branch:386]
 
 
 **领势/LINKSYS:**
