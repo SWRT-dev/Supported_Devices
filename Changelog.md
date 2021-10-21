@@ -8,7 +8,9 @@
 
 * Add repeater mode for mtk series.
 
-* update smartdns to f50e4dd.
+* Update smartdns to f50e4dd.
+
+* Add hardware crypto support for bcm675x/lantiq/mtk/qca.
 
 
 ### 5.1.6
