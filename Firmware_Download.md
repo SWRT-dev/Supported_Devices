@@ -41,7 +41,7 @@ Firmware Download
 **斐讯/PHICOMM:**
 
 * K3 [Branch:386] [HWCrypto:No] 
-* K3C [Branch:384] [HWCrypto:No] 
+* K3C [Branch:384] [HWCrypto:Yes] 
 
 
 **网件/NETGEAR:**
