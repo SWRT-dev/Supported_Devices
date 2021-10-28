@@ -1,0 +1,31 @@
+# QCA
+
+IPQ40XX : Yes
+
+IPQ50XX : Yes
+
+IPQ60XX : Yes
+
+IPQ806X : Yes
+
+IPQ807X : Yes
+
+# BRCM
+
+BCM407X : No
+
+BCM49XX : Yes
+
+BCM6750 : No
+
+BCM6755 : Yes
+
+# LANTIQ
+
+GRX500 : Yes
+
+# MTK
+
+MT7621 : Yes
+
+MT762X : Yes
