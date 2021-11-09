@@ -11,7 +11,7 @@ Supported Devices
  * [GT-AC2900](https://github.com/SWRT-dev/gtac2900-asuswrt)
  * [GT-AC5300](https://github.com/SWRT-dev/gtac5300-asuswrt)
  * RT-AX53U
- * [RT-AX55](https://github.com/SWRT-dev/rt-ax55)
+ * [RT-AX55](https://github.com/SWRT-dev/rtax55) (512MB RAM ONLY)
  * [RT-AX56U](https://github.com/SWRT-dev/rt-ax56u)
  * RT-AX58U_V2
  * [RT-AX58U, RT-AX3000](https://github.com/SWRT-dev/rt-ax58u) (use the RT-AX58U firmware)
