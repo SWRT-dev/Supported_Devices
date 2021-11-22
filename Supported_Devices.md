@@ -62,6 +62,7 @@ Supported Devices
 * [R8500](https://github.com/SWRT-dev/r8500)
 * [R6900P, R7000P](https://github.com/SWRT-dev/r7000p) (use the R7000P firmware)
 * [R7900P, R7960P, R8000P](https://github.com/SWRT-dev/r8000p) (use the R8000P firmware)
+* [RAX70](https://github.com/SWRT-dev/rax70)
 * [RAX120](https://github.com/SWRT-dev/rax120)
 
 
