@@ -6,9 +6,11 @@
 
 * Add 802.11k/v/r for mt7615.
 
-* Add repeater mode for mtk series.
+* Add repeater mode for mtk/ipq4019 series.
 
 * Update smartdns to f50e4dd.
+
+* Improve usb performance.
 
 
 
