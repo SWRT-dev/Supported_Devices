@@ -54,7 +54,7 @@ Firmware Download
 * R8500 [Branch:386] [HWCrypto:No] 
 * R6900P, R7000P [Branch:385] [HWCrypto:No] 
 * R7900P, R7960P, R8000P [Branch:386] [HWCrypto:Yes] 
-* RAX70 [Branch:386] [HWCrypto:Yes] 
+* [RAX70](https://mega.nz/folder/5YlgiaCR#yk9o_GzmCWwzrpopNW0b0g) [Branch:386] [HWCrypto:Yes] 
 * [RAX120](https://mega.nz/folder/1NkRlCZY#8JOs5d02yJgRFov2wxbziA) [Branch:386] [HWCrypto:Yes] 
 
 
