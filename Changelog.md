@@ -12,6 +12,10 @@
 
 * Improve usb performance.
 
+* Add support of rax70.
+
+* Add support for rt-ax86u(not rt-ax86s), backport 2 broadcom phy drivers and 2 non-broadcom phy drivers.
+
 
 
 ### 5.1.6
