@@ -16,6 +16,7 @@
 
 * Add support for rt-ax86u(not rt-ax86s), backport 2 broadcom phy drivers and 2 non-broadcom phy drivers.
 
+* rtac85p/r6800/rmac2100 merged with 382.52516.
 
 
 ### 5.1.6
