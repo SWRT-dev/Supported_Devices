@@ -7,7 +7,7 @@ Supported Devices
  * RT-AC3100
  * RT-AC3200
  * [RT-AC5300](https://github.com/SWRT-dev/rt-ac5300)
- * [RT-AC86U](https://github.com/SWRT-dev/86u-asuswrt)
+ * [RT-AC86U](https://github.com/SWRT-dev/rtac86u)
  * [GT-AC2900](https://github.com/SWRT-dev/gtac2900-asuswrt)
  * [GT-AC5300](https://github.com/SWRT-dev/gtac5300-asuswrt)
  * RT-AX53U
