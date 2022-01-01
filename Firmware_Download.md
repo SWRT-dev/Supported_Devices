@@ -21,7 +21,7 @@ Firmware Download
  * GS-AX5400 [Branch:386] [HWCrypto:No] 
  * RT-AX68U [Branch:386] [HWCrypto:Yes] 
  * [RT-AX82U](https://mega.nz/folder/IN8lAK7I#Fv7LWqcu2xeARQeFdL1S2A) [Branch:386] [HWCrypto:No] 
- * RT-AX86U [Branch:386] [HWCrypto:Yes] 
+ * [RT-AX86U](https://mega.nz/folder/EYcVXS4Y#7zCbDAwyHqpV9zcVPXAHYA) [Branch:386] [HWCrypto:Yes] 
  * RT-AX88U [Branch:386] [HWCrypto:Yes] 
  * [RT-AX89X](https://mega.nz/folder/QVcg1TbT#FZEuVxWJQejBJj2tEiur-w) [Branch:386] [HWCrypto:Yes] 
  * RT-AX92U [Branch:386] [HWCrypto:Yes] 
