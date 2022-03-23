@@ -2,13 +2,13 @@ Supported Devices
 -----------------
 **华硕/ASUS：**
 
- * [RT-AC66U_B1, RT-AC68U, RT-AC68P, RT-AC1900, RT-AC1900P](https://github.com/SWRT-dev/asuswrt-bcm470x) (use the RT-AC68U firmware)
- * [RT-AC88U](https://github.com/SWRT-dev/asuswrt-bcm470x)
- * [RT-AC3100](https://github.com/SWRT-dev/asuswrt-bcm470x)
+ * [RT-AC66U_B1, RT-AC68U, RT-AC68P, RT-AC1900, RT-AC1900P](https://github.com/SWRT-dev/asuswrt-bcm) (use the RT-AC68U firmware)
+ * [RT-AC88U](https://github.com/SWRT-dev/asuswrt-bcm)
+ * [RT-AC3100](https://github.com/SWRT-dev/asuswrt-bcm)
  * RT-AC3200
- * [RT-AC5300](https://github.com/SWRT-dev/asuswrt-bcm470x)
- * [RT-AC86U](https://github.com/SWRT-dev/rtac86u)
- * [GT-AC2900](https://github.com/SWRT-dev/gtac2900-asuswrt)
+ * [RT-AC5300](https://github.com/SWRT-dev/asuswrt-bcm)
+ * [RT-AC86U](https://github.com/SWRT-dev/asuswrt-bcm)
+ * [GT-AC2900](https://github.com/SWRT-dev/asuswrt-bcm)
  * [GT-AC5300](https://github.com/SWRT-dev/gtac5300-asuswrt)
  * [RT-AX53U](https://github.com/SWRT-dev/rtax53u)
  * [RT-AX54](https://github.com/SWRT-dev/rtax54)
