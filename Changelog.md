@@ -6,9 +6,9 @@
 * Softcenter support swrt mod and swrt.
 #### swrt mod：
 * Add Kimetsu no Yaiba skin for rtax82u/rtax86u.
-* rtac68u/sbrac1900p/ea6700/r6300v2/dir868l merged with 386.45958.
-* rtac3100/rtac5300/rtac88u merged with 386.45958.
-* rtac86u/gtac2900 merged with 386.45958.
+* rtac68u/sbrac1900p/ea6700/r6300v2/dir868l merged with 386.46065.
+* rtac3100/rtac5300/rtac88u merged with 386.46065.
+* rtac86u/gtac2900 merged with 386.46065.
 #### swrt：
 * rtac85p/r6800/rmac2100 swrt.
 * Update mtk kernel to 4.4.
