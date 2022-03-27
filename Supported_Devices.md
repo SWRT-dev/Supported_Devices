@@ -13,9 +13,9 @@ Supported Devices
  * [RT-AX53U](https://github.com/SWRT-dev/rtax53u)
  * [RT-AX54](https://github.com/SWRT-dev/rtax54)
  * [RT-AX55](https://github.com/SWRT-dev/rtax55) (512MB RAM ONLY)
- * [RT-AX56U](https://github.com/SWRT-dev/rt-ax56u)
+ * [RT-AX56U](https://github.com/SWRT-dev/asuswrt-bcm)
  * RT-AX58U_V2
- * [RT-AX58U, RT-AX3000](https://github.com/SWRT-dev/rt-ax58u) (use the RT-AX58U firmware)
+ * [RT-AX58U, RT-AX3000](https://github.com/SWRT-dev/asuswrt-bcm) (use the RT-AX58U firmware)
  * TUF-AX3000_V2
  * [TUF-AX3000](https://github.com/SWRT-dev/tuf-ax3000)
  * TUF-AX5400
@@ -39,7 +39,7 @@ Supported Devices
  * [ZENWIFI-CT8, RT-AC95U](https://github.com/SWRT-dev/rt-ac95u)
  * ZENWIFI-XD4
  * ZENWIFI-XD4_PRO
- * ZENWIFI-XT8
+ * [ZENWIFI-XT8](https://github.com/SWRT-dev/asuswrt-bcm)
  * ZENWIFI-XT8_PRO
  * ZENWIFI-XT12
  * ZENWIFI-ET8
