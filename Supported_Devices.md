@@ -15,7 +15,7 @@ Supported Devices
  * [RT-AX55](https://github.com/SWRT-dev/rtax55) (512MB RAM ONLY)
  * [RT-AX56U](https://github.com/SWRT-dev/asuswrt-bcm)
  * RT-AX58U_V2
- * [RT-AX58U, RT-AX3000](https://github.com/SWRT-dev/asuswrt-bcm) (use the RT-AX58U firmware)
+ * [RT-AX58U, RT-AX3000](https://github.com/SWRT-dev/asuswrt-bcm) (use the RT-AX58U firmware, ONLY V1)
  * TUF-AX3000_V2
  * [TUF-AX3000](https://github.com/SWRT-dev/tuf-ax3000)
  * TUF-AX5400
