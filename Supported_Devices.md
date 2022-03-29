@@ -22,7 +22,7 @@ Supported Devices
  * GS-AX3000
  * GS-AX5400
  * RT-AX68U
- * RT-AX82U
+ * [RT-AX82U](https://github.com/SWRT-dev/asuswrt-bcm)
  * [RT-AX86U](https://github.com/SWRT-dev/rtax86u)
  * RT-AX88U
  * [RT-AX89X](https://github.com/SWRT-dev/rtax89x)
