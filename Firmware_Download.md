@@ -10,7 +10,7 @@ Firmware Download
  * [RT-AC86U](https://mega.nz/folder/MAVRHCQY#MURd2OUURo4rBhEkDGlo5Q) [Branch:386]
  * [GT-AC2900](https://mega.nz/folder/NF0wwaIA#e0VUxrey2fZzCnKUlFNmrg) [Branch:386]
  * [GT-AC5300](https://mega.nz/folder/pRt1mIpK#_i40UQFawo2ZXO3lHfgfnw) [Branch:386]
- * RT-AX53U [Branch:382]
+ * RT-AX53U [Branch:382/386]
  * RT-AX55 [Branch:386]
  * [RT-AX56U](https://mega.nz/folder/xY1EFACB#N8Ks3KgA1UtIp-kK79SNbQ) [Branch:386]
  * [RT-AX58U, RT-AX3000](https://mega.nz/folder/5Z93jC4L#sE4tRyO431Aisu10Ifz_9A) [Branch:386]
