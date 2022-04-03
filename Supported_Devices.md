@@ -84,7 +84,7 @@ Supported Devices
 
 **红米/REDMI：**
 
-* [RM-AC2100](https://github.com/SWRT-dev/rtax53u) (use the RT-AC85P code)
+* [RM-AC2100](https://github.com/SWRT-dev/rtax53u)
 
 
 **天邑/TIANYI：**
