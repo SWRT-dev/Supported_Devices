@@ -9,12 +9,14 @@
 * rtac68u/sbrac1900p/ea6700/r6300v2/dir868l merged with 386.46065.
 * rtac3100/rtac5300/rtac88u merged with 386.46065.
 * rtac86u/gtac2900 merged with 386.46065.
+* rtax56u/rtax58u/rtax82u/rtax68u/rtax86u/rtax88u merged with 386.46065.
+* gtax11000/gtaxe11000 merged with 386.46065.
+* zenwifi-xt8/tufax5400 merged with 386.46065.
 #### swrt：
 * rtac85p/r6800/rmac2100 swrt.
 * Update mtk kernel to 4.4.
 * Update mt76x3/mt7615/mt7915 drivers.
 * Update kvr for mtk.
-* Add easymesh for mtk.
 * Fix softcenter api bug.
 * Port ntfs3/apfs drivers.
 
