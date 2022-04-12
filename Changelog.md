@@ -12,6 +12,7 @@
 * rtax56u/rtax58u/rtax82u/rtax68u/rtax86u/rtax88u merged with 386.46065.
 * gtax11000/gtaxe11000 merged with 386.46065.
 * zenwifi-xt8/tufax5400 merged with 386.46065.
+* rtax89x merged with 386.47027.
 #### swrt：
 * rtac85p/r6800/rmac2100 swrt.
 * Update mtk kernel to 4.4.
