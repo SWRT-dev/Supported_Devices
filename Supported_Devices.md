@@ -24,7 +24,8 @@ Supported Devices
  * [RT-AX68U](https://github.com/SWRT-dev/asuswrt-bcm)
  * [RT-AX82U](https://github.com/SWRT-dev/asuswrt-bcm)
  * [RT-AX86U](https://github.com/SWRT-dev/asuswrt-bcm)
- * RT-AX88U
+ * RT-AX86U_PRO
+ * [RT-AX88U](https://github.com/SWRT-dev/asuswrt-bcm)
  * [RT-AX89X](https://github.com/SWRT-dev/rtax89x)
  * RT-AX92U
  * GT-AX6000
@@ -42,7 +43,7 @@ Supported Devices
  * [ZENWIFI-XT8](https://github.com/SWRT-dev/asuswrt-bcm)
  * ZENWIFI-XT8_PRO
  * ZENWIFI-XT12
- * ZENWIFI-ET8
+ * [ZENWIFI-ET8](https://github.com/SWRT-dev/asuswrt-bcm)
  * ZENWIFI-ET8_PRO
  * ZENWIFI-ETJ
  * ZENWIFI-ET12
@@ -51,35 +52,35 @@ Supported Devices
 
 **斐讯/PHICOMM：**
 
-* [K3](https://github.com/SWRT-dev/k3)
-* [K3C](https://github.com/SWRT-dev/k3c)
+* K3
+* K3C
 
 
 **网件/NETGEAR：**
 
-* [R6300V2](https://github.com/SWRT-dev/ea6700) (use the ea6700 code)
+* R6300V2
 * [R6700v2, R6800, R6900v2, AC2400](https://github.com/SWRT-dev/rtax53u) (use the R6800 firmware)
-* [R8500](https://github.com/SWRT-dev/r8500)
-* [R6900P, R7000P](https://github.com/SWRT-dev/r7000p) (use the R7000P firmware)
-* [R7900P, R7960P, R8000P](https://github.com/SWRT-dev/r8000p) (use the R8000P firmware)
-* [RAX70](https://github.com/SWRT-dev/rax70)
-* [RAX120](https://github.com/SWRT-dev/rax120)
+* R8500
+* R6900P, R7000P (use the R7000P firmware)
+* R7900P, R7960P, R8000P] (use the R8000P firmware)
+* RAX70
+* RAX120
 
 
 **领势/LINKSYS：**
 
-* [EA6700](https://github.com/SWRT-dev/ea6700)
+* EA6700
 
 
 **ARRIS：**
 
-* [SBR-AC1900P](https://github.com/SWRT-dev/sbrac1900p)
-* [SBR-AC3200P](https://github.com/SWRT-dev/sbrac3200p)
+* SBR-AC1900P
+* SBR-AC3200P
 
 
 **莱科/LUXUL：**
 
-* [XWR-3100, XWR-3150](https://github.com/SWRT-dev/k3) (use the XWR-3100 firmware)
+* XWR-3100, XWR-3150
 
 
 **红米/REDMI：**
@@ -89,16 +90,18 @@ Supported Devices
 
 **天邑/TIANYI：**
 
-* [TY6201](https://github.com/SWRT-dev/ty6201) (rtl8367)
-* [TY6201](https://github.com/SWRT-dev/ty6201_bcm) (bcm53134)
+* TY6201 (rtl8367)
+* TY6201 (bcm53134)
+* TY6202
+* TY301
 
 
 **贝尔金/BELKIN：**
 
-* [F9K1118v2](https://github.com/SWRT-dev/f9k1118v2)
+* F9K1118v2
 
 
 **友讯/DLINK：**
 
-* [DIR868L](https://github.com/SWRT-dev/ea6700) (use the ea6700 code)
+* DIR868L
 
