@@ -2,6 +2,14 @@
 
 ============================
 
+### 5.1.9
+* Update softcenter to the lastest version.
+#### swrt mod：
+* Fix 5g Ethernet port speed setting for rax120.
+* Fix softcenter bug for bcm470x models.
+#### swrt：
+* Adjust fonts for Chinese.
+
 ### 5.1.8
 * Softcenter support swrt mod and swrt.
 #### swrt mod：
