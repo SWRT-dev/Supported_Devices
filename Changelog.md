@@ -7,8 +7,10 @@
 #### swrt mod：
 * Fix 5g Ethernet port speed setting for rax120.
 * Fix softcenter bug for bcm470x models.
+* Add port aggregation support for rt-ac86u.
 #### swrt：
 * Adjust fonts for Chinese.
+* Fix 7615/7915 kvr roaming issues.
 
 ### 5.1.8
 * Softcenter support swrt mod and swrt.
