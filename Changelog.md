@@ -8,7 +8,7 @@
 * Fix 5g Ethernet port speed setting for rax120.
 * Fix softcenter bug for bcm470x models.
 * Add port aggregation support for rt-ac86u.
-* Porting broadcom fullcone for qca.
+* Porting broadcom fullcone for qca/lantiq.
 #### swrt：
 * Adjust fonts for Chinese.
 * Fix 7615/7915 kvr roaming issues.
