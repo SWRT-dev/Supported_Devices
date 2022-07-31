@@ -6,6 +6,7 @@
 * Update softcenter to the lastest version.
 #### swrt mod：
 * Fix 5g Ethernet port speed setting for rax120.
+* Fix bad block problem of rax120.
 * Fix softcenter bug for bcm470x models.
 * Add port aggregation support for rt-ac86u.
 * Porting broadcom fullcone for qca/lantiq.
