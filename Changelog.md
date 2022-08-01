@@ -14,6 +14,7 @@
 * Adjust fonts for Chinese.
 * Fix 7615/7915 kvr roaming issues.
 * Porting broadcom fullcone.
+* Fix guest wifi.
 
 ### 5.1.8
 * Softcenter support swrt mod and swrt.
