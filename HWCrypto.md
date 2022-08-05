@@ -29,3 +29,5 @@ GRX500 : Yes
 MT7621 : Yes
 
 MT762X : Yes
+
+MT798X : Yes
