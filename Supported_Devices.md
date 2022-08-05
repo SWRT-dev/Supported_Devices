@@ -18,6 +18,7 @@ Supported Devices
  * [RT-AX58U, RT-AX3000](https://github.com/SWRT-dev/asuswrt-bcm) (use the RT-AX58U firmware, ONLY V1)
  * TUF-AX3000_V2
  * [TUF-AX3000](https://github.com/SWRT-dev/tuf-ax3000) (ONLY V1)
+ * [TUF-AX4200]
  * [TUF-AX5400](https://github.com/SWRT-dev/asuswrt-bcm)
  * GS-AX3000
  * GS-AX5400
