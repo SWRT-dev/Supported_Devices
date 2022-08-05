@@ -16,6 +16,7 @@ Firmware Download
  * [RT-AX58U, RT-AX3000](https://mega.nz/folder/5Z93jC4L#sE4tRyO431Aisu10Ifz_9A) [Branch:386]
  * RT-AX58U_V2 [Branch:386]
  * [TUF-AX3000](https://mega.nz/folder/0EUwRTYJ#a1ZdzjONXRt5gpeJ171xbA) [Branch:386]
+ * TUF-AX4200 [Branch:388]
  * [TUF-AX5400](https://mega.nz/folder/xYExCKCL#_UKquRyii3znSAH5zM0uyA) [Branch:386]
  * GS-AX3000 [Branch:386]
  * GS-AX5400 [Branch:386]
@@ -36,6 +37,7 @@ Firmware Download
  * RT-ACRH18 [Branch:382]
  * ZENWIFI-CT8, RT-AC95U [Branch:386]
  * [ZENWIFI-XT8, RT-AX95Q](https://mega.nz/folder/IEMQVAxL#K35LQgqZmVRJR6gsR2PNqw) [Branch:386]
+ * [ZENWIFI-ET8, RT-AXe95Q](https://mega.nz/folder/cVsQ0IQB#VuCX-UWRjLm-RdJiR_5lXg) [Branch:386]
  * ZENWIFI-XP4 [Branch:386]
 
 
