@@ -10,14 +10,14 @@ Supported Devices
  * [RT-AC86U](https://github.com/SWRT-dev/asuswrt-bcm)
  * [GT-AC2900](https://github.com/SWRT-dev/asuswrt-bcm)
  * [GT-AC5300](https://github.com/SWRT-dev/gtac5300-asuswrt)
- * [RT-AX53U](https://github.com/SWRT-dev/rtax53u)
+ * [RT-AX53U](https://github.com/SWRT-dev/swrt-gpl)
  * [RT-AX54](https://github.com/SWRT-dev/rtax54)
  * [RT-AX55](https://github.com/SWRT-dev/rtax55) (512MB RAM ONLY)
  * [RT-AX56U](https://github.com/SWRT-dev/asuswrt-bcm)
  * RT-AX58U_V2
  * [RT-AX58U, RT-AX3000](https://github.com/SWRT-dev/asuswrt-bcm) (use the RT-AX58U firmware, ONLY V1)
  * TUF-AX3000_V2
- * [TUF-AX3000](https://github.com/SWRT-dev/tuf-ax3000) (ONLY V1)
+ * [TUF-AX3000](https://github.com/SWRT-dev/asuswrt-bcm) (ONLY V1)
  * [TUF-AX4200]
  * [TUF-AX5400](https://github.com/SWRT-dev/asuswrt-bcm)
  * GS-AX3000
@@ -35,10 +35,10 @@ Supported Devices
  * GT-AXE11000
  * GT-AXE16000
  * [BLUECAVE](https://github.com/SWRT-dev/bluecave-asuswrt)
- * [RT-AC85P, RT-AC65P](https://github.com/SWRT-dev/rtax53u) (use the RT-AC85P firmware)
- * [RT-ACRH17, RT-AC2200](https://github.com/SWRT-dev/acrh17-asuswrt) (use the RT-ACRH17 firmware)
+ * [RT-AC85P, RT-AC65P](https://github.com/SWRT-dev/swrt-gpl) (use the RT-AC85P firmware)
+ * [RT-ACRH17, RT-AC2200](https://github.com/SWRT-dev/swrt-gpl) (use the RT-ACRH17 firmware)
  * [RT-ACRH18]
- * [ZENWIFI-CT8, RT-AC95U](https://github.com/SWRT-dev/rt-ac95u)
+ * [ZENWIFI-CT8, RT-AC95U](https://github.com/SWRT-dev/swrt-gpl) (no aimesh)
  * ZENWIFI-XD4
  * ZENWIFI-XD4_PRO
  * [ZENWIFI-XT8](https://github.com/SWRT-dev/asuswrt-bcm)
@@ -60,7 +60,7 @@ Supported Devices
 **网件/NETGEAR：**
 
 * R6300V2
-* [R6700v2, R6800, R6900v2, AC2400](https://github.com/SWRT-dev/rtax53u) (use the R6800 firmware)
+* [R6700v2, R6800, R6900v2, AC2400](https://github.com/SWRT-dev/swrt-gpl) (use the R6800 firmware)
 * R8500
 * R6900P, R7000P (use the R7000P firmware)
 * R7900P, R7960P, R8000P] (use the R8000P firmware)
@@ -86,7 +86,7 @@ Supported Devices
 
 **红米/REDMI：**
 
-* [RM-AC2100](https://github.com/SWRT-dev/rtax53u)
+* [RM-AC2100](https://github.com/SWRT-dev/swrt-gpl)
 
 
 **天邑/TIANYI：**
