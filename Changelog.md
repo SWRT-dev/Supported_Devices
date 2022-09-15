@@ -2,6 +2,20 @@
 
 ============================
 
+### 5.2.0
+* Update softcenter to the lastest version.
+* Unlocks the region selection feature for all regions.
+#### swrt mod：
+* Merged with 386.49xxx.
+* Add support for wireguard.
+#### swrt：
+* Add mtk bsd.
+* Add support for ipq40xx.
+* Update kernel4.4 for qca.
+* Add support for wireguard.
+* Fix mt7621 kernel/uboot bad block compatibility.
+* Fix rt-ac85p uboot compatible stock firmware.
+
 ### 5.1.9
 * Update softcenter to the lastest version.
 #### swrt mod：
