@@ -11,6 +11,7 @@
 #### swrt：
 * Add mtk bsd.
 * Add support for ipq40xx.
+* Add support for mt7986.
 * Update kernel4.4 for qca.
 * Add support for wireguard.
 * Fix mt7621 kernel/uboot bad block compatibility.
