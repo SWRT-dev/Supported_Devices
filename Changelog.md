@@ -16,6 +16,7 @@
 * Add support for wireguard.
 * Fix mt7621 kernel/uboot bad block compatibility.
 * Fix rt-ac85p uboot compatible stock firmware.
+* Add support for rm-ax6000.
 
 ### 5.1.9
 * Update softcenter to the lastest version.
