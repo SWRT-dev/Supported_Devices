@@ -87,6 +87,7 @@ Supported Devices
 **红米/REDMI：**
 
 * [RM-AC2100](https://github.com/SWRT-dev/swrt-gpl)
+* [RM-AX6000](https://github.com/SWRT-dev/swrt-gpl)
 
 
 **天邑/TIANYI：**
