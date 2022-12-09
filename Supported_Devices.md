@@ -2,17 +2,17 @@ Supported Devices
 -----------------
 **华硕/ASUS：**
 
- * [RT-AC66U_B1, RT-AC68U, RT-AC68P, RT-AC1900, RT-AC1900P](https://github.com/SWRT-dev/asuswrt-bcm) (use the RT-AC68U firmware)
- * [RT-AC88U](https://github.com/SWRT-dev/asuswrt-bcm)
- * [RT-AC3100](https://github.com/SWRT-dev/asuswrt-bcm)
+ * [RT-AC66U_B1, RT-AC68U, RT-AC68P, RT-AC1900, RT-AC1900P](https://github.com/SWRT-dev/asuswrt-bcm-ac) (use the RT-AC68U firmware)
+ * [RT-AC88U](https://github.com/SWRT-dev/asuswrt-bcm-ac)
+ * [RT-AC3100](https://github.com/SWRT-dev/asuswrt-bcm-ac)
  * RT-AC3200
- * [RT-AC5300](https://github.com/SWRT-dev/asuswrt-bcm)
- * [RT-AC86U](https://github.com/SWRT-dev/asuswrt-bcm)
- * [GT-AC2900](https://github.com/SWRT-dev/asuswrt-bcm)
- * [GT-AC5300](https://github.com/SWRT-dev/gtac5300-asuswrt)
+ * [RT-AC5300](https://github.com/SWRT-dev/asuswrt-bcm-ac)
+ * [RT-AC86U](https://github.com/SWRT-dev/asuswrt-bcm-ac)
+ * [GT-AC2900](https://github.com/SWRT-dev/asuswrt-bcm-ac)
+ * [GT-AC5300](https://github.com/SWRT-dev/asuswrt-bcm-ac)
  * [RT-AX53U](https://github.com/SWRT-dev/swrt-gpl)
  * [RT-AX54](https://github.com/SWRT-dev/rtax54)
- * [RT-AX55](https://github.com/SWRT-dev/rtax55) (512MB RAM ONLY)
+ * [RT-AX55](https://github.com/SWRT-dev/asuswrt-bcm) (256M/512M RAM)
  * [RT-AX56U](https://github.com/SWRT-dev/asuswrt-bcm)
  * RT-AX58U_V2
  * [RT-AX58U, RT-AX3000](https://github.com/SWRT-dev/asuswrt-bcm) (use the RT-AX58U firmware, ONLY V1)
@@ -25,15 +25,15 @@ Supported Devices
  * [RT-AX68U](https://github.com/SWRT-dev/asuswrt-bcm)
  * [RT-AX82U](https://github.com/SWRT-dev/asuswrt-bcm)
  * [RT-AX86U](https://github.com/SWRT-dev/asuswrt-bcm)
- * RT-AX86U_PRO
+ * [RT-AX86U_PRO](https://github.com/SWRT-dev/asuswrt-bcm)
  * [RT-AX88U](https://github.com/SWRT-dev/asuswrt-bcm)
  * [RT-AX89X](https://github.com/SWRT-dev/rtax89x)
- * RT-AX92U
- * GT-AX6000
+ * [RT-AX92U](https://github.com/SWRT-dev/asuswrt-bcm)
+ * [GT-AX6000](https://github.com/SWRT-dev/asuswrt-bcm)
  * [GT-AX11000](https://github.com/SWRT-dev/asuswrt-bcm)
- * GT-AX11000_PRO
- * GT-AXE11000
- * GT-AXE16000
+ * [GT-AX11000_PRO](https://github.com/SWRT-dev/asuswrt-bcm)
+ * [GT-AXE11000](https://github.com/SWRT-dev/asuswrt-bcm)
+ * [GT-AXE16000](https://github.com/SWRT-dev/asuswrt-bcm)
  * [BLUECAVE](https://github.com/SWRT-dev/bluecave-asuswrt)
  * [RT-AC85P, RT-AC65P](https://github.com/SWRT-dev/swrt-gpl) (use the RT-AC85P firmware)
  * [RT-ACRH17, RT-AC2200](https://github.com/SWRT-dev/swrt-gpl) (use the RT-ACRH17 firmware)
@@ -49,6 +49,8 @@ Supported Devices
  * ZENWIFI-ETJ
  * ZENWIFI-ET12
  * [ZENWIFI-XP4](https://github.com/SWRT-dev/zenwifi-xp4)
+ * [XT12](https://github.com/SWRT-dev/asuswrt-bcm)
+
 
 
 **斐讯/PHICOMM：**
