@@ -6,8 +6,10 @@
 * Update softcenter to the lastest version.
 * Unlocks the region selection feature for all regions.
 #### swrt mod：
-* Merged with 386.49xxx.
+* Brcm ac models merged with 386.49xxx.
+* Brcm ax models merged with 388_21224.
 * Add support for wireguard.
+* Fix PPPoE on ipq8074 is not accelerated by hardware NAT.
 #### swrt：
 * Add mtk bsd.
 * Add support for ipq40xx.
