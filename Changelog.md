@@ -4,7 +4,6 @@
 
 ### 5.2.0
 * Update softcenter to the lastest version.
-* Unlocks the region selection feature for all regions.
 #### swrt mod：
 * Brcm ac models merged with 386.49xxx.
 * Brcm ax models merged with 388_21224.
