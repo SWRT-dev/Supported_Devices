@@ -2,6 +2,17 @@
 
 ============================
 
+### 5.2.1
+* Fix the problem that usb enclosures cannot be mounted.
+* Add lua.
+#### swrt mod：
+* Backport httpd ipv6 support for qca models.  
+#### swrt：
+* Backport 388.31345.
+* Optimize usb read and write performance.
+* Fix rt-ac85p switch light.
+* Add support for bcm470x.
+
 ### 5.2.0
 * Update softcenter to the lastest version.
 #### swrt mod：
