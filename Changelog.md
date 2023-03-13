@@ -5,6 +5,7 @@
 ### 5.2.1
 * Fix the problem that usb enclosures cannot be mounted.
 * Add lua.
+* Add entware mirror server for chinese.
 #### swrt mod：
 * Backport httpd ipv6 support for qca models.  
 #### swrt：
