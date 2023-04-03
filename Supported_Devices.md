@@ -43,13 +43,12 @@ Supported Devices
  * ZENWIFI-XD4_PRO
  * [ZENWIFI-XT8](https://github.com/SWRT-dev/asuswrt-bcm)
  * ZENWIFI-XT8_PRO
- * ZENWIFI-XT12
+ * [ZENWIFI-XT12](https://github.com/SWRT-dev/asuswrt-bcm)
  * [ZENWIFI-ET8](https://github.com/SWRT-dev/asuswrt-bcm)
  * ZENWIFI-ET8_PRO
  * ZENWIFI-ETJ
  * ZENWIFI-ET12
  * [ZENWIFI-XP4](https://github.com/SWRT-dev/zenwifi-xp4)
- * [XT12](https://github.com/SWRT-dev/asuswrt-bcm)
 
 
 
@@ -90,6 +89,10 @@ Supported Devices
 
 * [RM-AC2100](https://github.com/SWRT-dev/swrt-gpl)
 * [RM-AX6000](https://github.com/SWRT-dev/swrt-gpl)
+
+**小米/XIAOMI：**
+
+* [XM-CR660X](https://github.com/SWRT-dev/swrt-gpl)
 
 
 **天邑/TIANYI：**
