@@ -85,6 +85,10 @@ Firmware Download
 * [RM-AC2100](https://mega.nz/folder/9BtXVCRY#laNmbn13RO8mqd5tVTasZQ) [Branch:386]
 * [RM-AX6000](https://mega.nz/folder/YY9j3JjD#ZHC8WLnNtVrjN7TDQvgAmw) [Branch:386]
 
+**小米/XIAOMI:**
+
+* [XM-CR660X](https://mega.nz/folder/4MUG0TgT#X-Qww0XyfNV1lt1o_7xviA) [Branch:386]
+
 
 
 **天邑/TIANYI:**
