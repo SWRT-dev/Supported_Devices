@@ -2,6 +2,11 @@
 
 ============================
 
+### 5.2.2
+* Fix softcenter cgi.
+* Fix entware install script.
+* Update softcenter to the lastest version.
+
 ### 5.2.1
 * Fix the problem that usb enclosures cannot be mounted.
 * Add lua.
