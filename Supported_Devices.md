@@ -12,23 +12,29 @@ Supported Devices
  * [GT-AC5300](https://github.com/SWRT-dev/asuswrt-bcm-ac)
  * [RT-AX53U](https://github.com/SWRT-dev/swrt-gpl)
  * [RT-AX54](https://github.com/SWRT-dev/rtax54)
- * [RT-AX55](https://github.com/SWRT-dev/asuswrt-bcm) (256M/512M RAM)
+ * [RT-AX55/RT-AX56U_V2](https://github.com/SWRT-dev/asuswrt-bcm) (256M/512M RAM, support bcm6755(hwver:A), unsupport bcm6756(hwver:B))
  * [RT-AX56U](https://github.com/SWRT-dev/asuswrt-bcm)
+ * [RT-AX58U, RT-AX3000](https://github.com/SWRT-dev/asuswrt-bcm) (use the RT-AX58U firmware)
  * RT-AX58U_V2
- * [RT-AX58U, RT-AX3000](https://github.com/SWRT-dev/asuswrt-bcm) (use the RT-AX58U firmware, ONLY V1)
- * TUF-AX3000_V2
  * [TUF-AX3000](https://github.com/SWRT-dev/asuswrt-bcm) (ONLY V1)
+ * TUF-AX3000_V2
+ * RT-AX3000N
  * [TUF-AX4200]
  * [TUF-AX5400](https://github.com/SWRT-dev/asuswrt-bcm)
+ * TUF-AX5400_V2
  * GS-AX3000
  * GS-AX5400
  * [RT-AX68U](https://github.com/SWRT-dev/asuswrt-bcm)
  * [RT-AX82U](https://github.com/SWRT-dev/asuswrt-bcm)
+ * RT-AX82U_V2
+ * RT-AX5400
  * [RT-AX86U](https://github.com/SWRT-dev/asuswrt-bcm)
  * [RT-AX86U_PRO](https://github.com/SWRT-dev/asuswrt-bcm)
  * [RT-AX88U](https://github.com/SWRT-dev/asuswrt-bcm)
+ * RT-AX88U_PRO
  * [RT-AX89X](https://github.com/SWRT-dev/rtax89x)
  * [RT-AX92U](https://github.com/SWRT-dev/asuswrt-bcm)
+ * RT-AXE7800
  * [GT-AX6000](https://github.com/SWRT-dev/asuswrt-bcm)
  * [GT-AX11000](https://github.com/SWRT-dev/asuswrt-bcm)
  * [GT-AX11000_PRO](https://github.com/SWRT-dev/asuswrt-bcm)
@@ -43,9 +49,11 @@ Supported Devices
  * ZENWIFI-XD4_PRO
  * [ZENWIFI-XT8](https://github.com/SWRT-dev/asuswrt-bcm)
  * ZENWIFI-XT8_PRO
+ * ZENWIFI-XT8_V2
  * [ZENWIFI-XT12](https://github.com/SWRT-dev/asuswrt-bcm)
  * [ZENWIFI-ET8](https://github.com/SWRT-dev/asuswrt-bcm)
  * ZENWIFI-ET8_PRO
+ * ZENWIFI-ET8_V2
  * ZENWIFI-ETJ
  * ZENWIFI-ET12
  * [ZENWIFI-XP4](https://github.com/SWRT-dev/zenwifi-xp4)
