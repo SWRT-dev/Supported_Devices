@@ -16,22 +16,22 @@ Supported Devices
  * [RT-AX56U](https://github.com/SWRT-dev/asuswrt-bcm)
  * [RT-AX58U, RT-AX3000](https://github.com/SWRT-dev/asuswrt-bcm) (use the RT-AX58U firmware)
  * RT-AX58U_V2
- * [TUF-AX3000](https://github.com/SWRT-dev/asuswrt-bcm) (ONLY V1)
- * TUF-AX3000_V2
+ * [TUF-AX3000](https://github.com/SWRT-dev/asuswrt-bcm)
+ * [TUF-AX3000_V2](https://github.com/SWRT-dev/asuswrt-bcm)
  * RT-AX3000N
  * [TUF-AX4200]
  * [TUF-AX5400](https://github.com/SWRT-dev/asuswrt-bcm)
- * TUF-AX5400_V2
+ * [TUF-AX5400_V2](https://github.com/SWRT-dev/asuswrt-bcm)
  * GS-AX3000
  * GS-AX5400
  * [RT-AX68U](https://github.com/SWRT-dev/asuswrt-bcm)
  * [RT-AX82U](https://github.com/SWRT-dev/asuswrt-bcm)
- * RT-AX82U_V2
+ * [RT-AX82U_V2](https://github.com/SWRT-dev/asuswrt-bcm)
  * RT-AX5400
  * [RT-AX86U](https://github.com/SWRT-dev/asuswrt-bcm)
  * [RT-AX86U_PRO](https://github.com/SWRT-dev/asuswrt-bcm)
  * [RT-AX88U](https://github.com/SWRT-dev/asuswrt-bcm)
- * RT-AX88U_PRO
+ * [RT-AX88U_PRO](https://github.com/SWRT-dev/asuswrt-bcm)
  * [RT-AX89X](https://github.com/SWRT-dev/rtax89x)
  * [RT-AX92U](https://github.com/SWRT-dev/asuswrt-bcm)
  * RT-AXE7800
