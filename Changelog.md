@@ -2,6 +2,20 @@
 
 ============================
 
+#### 5.2.3
+
+* Use haveged instead of jitterentropy-rngd.  
+#### swrt mod：
+* Brcm ax models merged with 388_22525.
+* Add support for rt-ax88u_pro.
+* Add support for tuf-ax3000_v2.
+* Add support for tuf-ax5400_v2.
+* Add support for gt6.
+* Fix failed to format jffs for HND 5.04 models.
+* Fix the network will be disconnected when rebooting aimesh node(The ip of the node is the same as the ip of the gateway).
+#### swrt：
+* Fix missing samba for rt-acrh17.
+
 ### 5.2.2
 * Fix softcenter cgi.
 * Fix entware install script.
