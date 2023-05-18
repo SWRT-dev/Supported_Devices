@@ -14,17 +14,21 @@ Firmware Download
  * [RT-AX55](https://mega.nz/folder/8Q9BiR4I#wnZt16fCcqwEearvAtHO0A) [Branch:386]
  * [RT-AX56U](https://mega.nz/folder/xY1EFACB#N8Ks3KgA1UtIp-kK79SNbQ) [Branch:388]
  * [RT-AX58U, RT-AX3000](https://mega.nz/folder/5Z93jC4L#sE4tRyO431Aisu10Ifz_9A) [Branch:388]
- * RT-AX58U_V2 [Branch:386]
+ * RT-AX58U_V2 [Branch:388]
  * [TUF-AX3000](https://mega.nz/folder/0EUwRTYJ#a1ZdzjONXRt5gpeJ171xbA) [Branch:388]
+ * TUF-AX3000_V2 [Branch:388]
  * TUF-AX4200 [Branch:388]
  * [TUF-AX5400](https://mega.nz/folder/xYExCKCL#_UKquRyii3znSAH5zM0uyA) [Branch:388]
+ * TUF-AX5400_V2 [Branch:388]
  * GS-AX3000 [Branch:386]
  * GS-AX5400 [Branch:386]
  * [RT-AX68U](https://mega.nz/folder/1FckAKgL#lwOgpkd5mP2qP8b27jUwdg) [Branch:388]
  * [RT-AX82U](https://mega.nz/folder/IN8lAK7I#Fv7LWqcu2xeARQeFdL1S2A) [Branch:388]
+ * RT-AX82U_V2 [Branch:388]
  * [RT-AX86U](https://mega.nz/folder/EYcVXS4Y#7zCbDAwyHqpV9zcVPXAHYA) [Branch:388]
  * [RT-AX86U_PRO](https://mega.nz/folder/FJcHETbQ#jYDJEjkuTZquFv1lf_UNKg) [Branch:388]
  * [RT-AX88U](https://mega.nz/folder/YJVknICI#NFeqf8QB-GGwGHit5mguXA) [Branch:388]
+ * RT-AX88U_PRO [Branch:388]
  * [RT-AX89X](https://mega.nz/folder/QVcg1TbT#FZEuVxWJQejBJj2tEiur-w) [Branch:386]
  * [RT-AX92U](https://mega.nz/folder/4M8zRKLL#LuPQEH2hGuYGfSGshBgQNg) [Branch:388]
  * [GT-AX6000](https://mega.nz/folder/IQ0BybJQ#39e7wWVhGyXQvAoQ4pT5Kw) [Branch:388]
@@ -38,9 +42,10 @@ Firmware Download
  * RT-ACRH18 [Branch:382]
  * [ZENWIFI-CT8, RT-AC95U](https://mega.nz/folder/JdFXVZRY#Qtj2DAuBK2Lv0wLIgP7ZRg) [Branch:386]
  * [ZENWIFI-XT8, RT-AX95Q](https://mega.nz/folder/IEMQVAxL#K35LQgqZmVRJR6gsR2PNqw) [Branch:388]
- * [ZENWIFI-ET8, RT-AXe95Q](https://mega.nz/folder/cVsQ0IQB#VuCX-UWRjLm-RdJiR_5lXg) [Branch:386]
+ * [ZENWIFI-ET8, RT-AXE95Q](https://mega.nz/folder/cVsQ0IQB#VuCX-UWRjLm-RdJiR_5lXg) [Branch:388]
  * ZENWIFI-XP4 [Branch:386]
  * [XT12](https://mega.nz/folder/UANUBJpZ#2-zavtjy3NJdTXAhSROA5Q) [Branch:388]
+ * GT6 [Branch:388]
 
 
 
@@ -58,7 +63,7 @@ Firmware Download
 * R8500 [Branch:386]
 * R6900P, R7000P [Branch:386]
 * R7900P, R7960P, R8000P [Branch:386]
-* [RAX70](https://mega.nz/folder/5YlgiaCR#yk9o_GzmCWwzrpopNW0b0g) [Branch:386]
+* [RAX70](https://mega.nz/folder/5YlgiaCR#yk9o_GzmCWwzrpopNW0b0g) [Branch:388]
 * [RAX120](https://mega.nz/folder/1NkRlCZY#8JOs5d02yJgRFov2wxbziA) [Branch:386]
 * [RAX200](https://mega.nz/folder/lVdHmaKQ#Hm3_tI0LMmd0urQt_GHnkw) [Branch:388]
 
@@ -93,13 +98,13 @@ Firmware Download
 
 **天邑/TIANYI:**
 
-* TY6201_rtk [Branch:386]
-* TY6201_bcm [Branch:386]
+* TY6201_RTK [Branch:386]
+* TY6201_BCM [Branch:388]
+* TY6202 [Branch:388]
+* TY6201PRO [Branch:388]
+* TYAX5400 [Branch:388]
 
 
-**贝尔金/BELKIN:**
-
-* F9K1118v2 [Branch:386]
 
 **友讯/DLINK:**
 
@@ -108,6 +113,9 @@ Firmware Download
 
 * [H3C-TX1801PLUS](https://mega.nz/folder/lI1QgbjB#Dgqr-pAUj3duAF1idGUw-g) [Branch:386]
 * [JCG-Q10PRO](https://mega.nz/folder/oYciVZRQ#5r5X6nRx3ycbrAirzVaRtA) [Branch:386]
+* [JCG-Q20] [Branch:386]
+* [360T7] [Branch:386]
+
 
 -----------------
 
