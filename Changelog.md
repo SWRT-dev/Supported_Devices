@@ -15,6 +15,8 @@
 * Fix the network will be disconnected when rebooting aimesh node(The ip of the node is the same as the ip of the gateway).
 #### swrt：
 * Fix missing samba for rt-acrh17.
+* Update mt7915/mt798x driver to latest.
+* Add 169-177 channel support for mt7915/mt798x(not all regions).
 
 ### 5.2.2
 * Fix softcenter cgi.
