@@ -16,19 +16,19 @@ Firmware Download
  * [RT-AX58U, RT-AX3000](https://mega.nz/folder/5Z93jC4L#sE4tRyO431Aisu10Ifz_9A) [Branch:388]
  * RT-AX58U_V2 [Branch:388]
  * [TUF-AX3000](https://mega.nz/folder/0EUwRTYJ#a1ZdzjONXRt5gpeJ171xbA) [Branch:388]
- * TUF-AX3000_V2 [Branch:388]
+ * [TUF-AX3000_V2](https://mega.nz/folder/dVN2xSRJ#NixxO1uhRvGmFLL7IOAqeA) [Branch:388]
  * TUF-AX4200 [Branch:388]
  * [TUF-AX5400](https://mega.nz/folder/xYExCKCL#_UKquRyii3znSAH5zM0uyA) [Branch:388]
- * TUF-AX5400_V2 [Branch:388]
+ * [TUF-AX5400_V2](https://mega.nz/folder/AcEiTKyL#Wb3DLGeY6PgVp67E6S3NNA) [Branch:388]
  * GS-AX3000 [Branch:386]
  * GS-AX5400 [Branch:386]
  * [RT-AX68U](https://mega.nz/folder/1FckAKgL#lwOgpkd5mP2qP8b27jUwdg) [Branch:388]
  * [RT-AX82U](https://mega.nz/folder/IN8lAK7I#Fv7LWqcu2xeARQeFdL1S2A) [Branch:388]
- * RT-AX82U_V2 [Branch:388]
+ * [RT-AX82U_V2](https://mega.nz/folder/tYNmRAiK#-5fpyRRWm-r6k5LOVPgz1w) [Branch:388]
  * [RT-AX86U](https://mega.nz/folder/EYcVXS4Y#7zCbDAwyHqpV9zcVPXAHYA) [Branch:388]
  * [RT-AX86U_PRO](https://mega.nz/folder/FJcHETbQ#jYDJEjkuTZquFv1lf_UNKg) [Branch:388]
  * [RT-AX88U](https://mega.nz/folder/YJVknICI#NFeqf8QB-GGwGHit5mguXA) [Branch:388]
- * RT-AX88U_PRO [Branch:388]
+ * [RT-AX88U_PRO](https://mega.nz/folder/IYFSmaBA#4-4jl7kGvFeH_u2INaEVsQ) [Branch:388]
  * [RT-AX89X](https://mega.nz/folder/QVcg1TbT#FZEuVxWJQejBJj2tEiur-w) [Branch:386]
  * [RT-AX92U](https://mega.nz/folder/4M8zRKLL#LuPQEH2hGuYGfSGshBgQNg) [Branch:388]
  * [GT-AX6000](https://mega.nz/folder/IQ0BybJQ#39e7wWVhGyXQvAoQ4pT5Kw) [Branch:388]
@@ -45,7 +45,7 @@ Firmware Download
  * [ZENWIFI-ET8, RT-AXE95Q](https://mega.nz/folder/cVsQ0IQB#VuCX-UWRjLm-RdJiR_5lXg) [Branch:388]
  * ZENWIFI-XP4 [Branch:386]
  * [XT12](https://mega.nz/folder/UANUBJpZ#2-zavtjy3NJdTXAhSROA5Q) [Branch:388]
- * GT6 [Branch:388]
+ * [GT6](https://mega.nz/folder/gUsmmRLJ#FBNGK9d1IaVYlm5_9JlqLA) [Branch:388]
 
 
 
@@ -113,8 +113,8 @@ Firmware Download
 
 * [H3C-TX1801PLUS](https://mega.nz/folder/lI1QgbjB#Dgqr-pAUj3duAF1idGUw-g) [Branch:386]
 * [JCG-Q10PRO](https://mega.nz/folder/oYciVZRQ#5r5X6nRx3ycbrAirzVaRtA) [Branch:386]
-* [JCG-Q20] [Branch:386]
-* [360T7] [Branch:386]
+* [JCG-Q20](https://mega.nz/folder/VdcGjK7R#pCz9sSoThqur5aeEcTzDuQ) [Branch:386]
+* 360T7 [Branch:386]
 
 
 -----------------
@@ -128,3 +128,10 @@ Thank You for support.
 ### PayPal
 
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://paypal.me/paldier9/)
+
+
+### Patreon
+
+<a href="https://www.patreon.com/swrtdev">
+<img src="https://sebastianlandwehr.com/images/patreon.svg" alt="Patreon" width="163">
+</a>
