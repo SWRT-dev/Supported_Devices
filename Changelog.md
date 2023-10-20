@@ -2,6 +2,25 @@
 
 ============================
 
+#### 5.2.4
+
+* Fix entware installation failure on some devices.
+#### swrt mod：
+* rt-ax89x/rax120 merged with 386.47468.
+* Update 5G phy of rax120.
+* Add support for rax120v2.
+* Fix fix some little bugs.
+#### swrt：
+* Fix changing username/password failed.
+* Fix httpd crash.
+* Add support for sbrac3200p.
+* Add support for r7000p.
+* Update QSDK12.
+* Add support for ipq807x.
+* Add support for mt7981.
+* Add overclocking/downclocking support for bcm470x.
+* Fix mtk firmware upgrade failure when nmbm is disabled.
+
 #### 5.2.3
 
 * Use haveged instead of jitterentropy-rngd.  
