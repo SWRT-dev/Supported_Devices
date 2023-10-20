@@ -22,6 +22,7 @@ Supported Devices
  * [TUF-AX4200]
  * [TUF-AX5400](https://github.com/SWRT-dev/asuswrt-bcm)
  * [TUF-AX5400_V2](https://github.com/SWRT-dev/asuswrt-bcm)
+ * [TUF-AX6000]
  * GS-AX3000
  * GS-AX5400
  * [RT-AX68U](https://github.com/SWRT-dev/asuswrt-bcm)
@@ -71,7 +72,7 @@ Supported Devices
 * R6300V2
 * [R6700v2, R6800, R6900v2, AC2400](https://github.com/SWRT-dev/swrt-gpl) (use the R6800 firmware)
 * R8500
-* R6900P, R7000P (use the R7000P firmware)
+* [R6900P, R7000P](https://github.com/SWRT-dev/swrt-gpl) (use the R7000P firmware)
 * R7900P, R7960P, R8000P] (use the R8000P firmware)
 * RAX70
 * RAX120
@@ -85,7 +86,7 @@ Supported Devices
 **ARRIS：**
 
 * SBR-AC1900P
-* SBR-AC3200P
+* [SBR-AC3200P](https://github.com/SWRT-dev/swrt-gpl)
 
 
 **莱科/LUXUL：**
@@ -119,4 +120,11 @@ Supported Devices
 **友讯/DLINK：**
 
 * DIR868L
+
+**OTHER：**
+
+* [JCG-Q10PRO](https://github.com/SWRT-dev/swrt-gpl)
+* [JCG-Q20](https://github.com/SWRT-dev/swrt-gpl)
+* [H3C-TX1801PLUS](https://github.com/SWRT-dev/swrt-gpl)
+
 
