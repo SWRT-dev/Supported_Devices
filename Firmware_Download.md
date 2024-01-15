@@ -29,7 +29,7 @@ Firmware Download
  * [RT-AX86U_PRO](https://mega.nz/folder/FJcHETbQ#jYDJEjkuTZquFv1lf_UNKg) [Branch:388]
  * [RT-AX88U](https://mega.nz/folder/YJVknICI#NFeqf8QB-GGwGHit5mguXA) [Branch:388]
  * [RT-AX88U_PRO](https://mega.nz/folder/IYFSmaBA#4-4jl7kGvFeH_u2INaEVsQ) [Branch:388]
- * [RT-AX89X](https://mega.nz/folder/QVcg1TbT#FZEuVxWJQejBJj2tEiur-w) [Branch:386]
+ * [RT-AX89X](https://mega.nz/folder/QVcg1TbT#FZEuVxWJQejBJj2tEiur-w) [Branch:388]
  * [RT-AX92U](https://mega.nz/folder/4M8zRKLL#LuPQEH2hGuYGfSGshBgQNg) [Branch:388]
  * [GT-AX6000](https://mega.nz/folder/IQ0BybJQ#39e7wWVhGyXQvAoQ4pT5Kw) [Branch:388]
  * [GT-AX11000](https://mega.nz/folder/UQUShKKB#S4oFHblq6VjqbxnMfqWXmQ) [Branch:388]
@@ -64,7 +64,7 @@ Firmware Download
 * R6900P, R7000P [Branch:386]
 * R7900P, R7960P, R8000P [Branch:386]
 * [RAX70](https://mega.nz/folder/5YlgiaCR#yk9o_GzmCWwzrpopNW0b0g) [Branch:388]
-* [RAX120](https://mega.nz/folder/1NkRlCZY#8JOs5d02yJgRFov2wxbziA) [Branch:386]
+* [RAX120](https://mega.nz/folder/1NkRlCZY#8JOs5d02yJgRFov2wxbziA) [Branch:388]
 * [RAX200](https://mega.nz/folder/lVdHmaKQ#Hm3_tI0LMmd0urQt_GHnkw) [Branch:388]
 
 
