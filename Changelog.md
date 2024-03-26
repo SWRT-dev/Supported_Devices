@@ -2,15 +2,28 @@
 
 ============================
 
+#### 5.2.5
+
+* Update smartdns to latest.
+#### swrt mod:
+* rt-ax89x/rax120 merged with 388.32407.
+* Add support for rax80.
+#### swrt:
+* Fix qos and firewall errors.
+* Fix some mt7621 devices crash issues.
+* Backport new features and fixes from 102.22108.
+* Add wisp mode support for mtk/qca.
+* Add vlan support for mt798x.
+
 #### 5.2.4
 
 * Fix entware installation failure on some devices.
-#### swrt mod：
+#### swrt mod:
 * rt-ax89x/rax120 merged with 386.47468.
 * Update 5G phy of rax120.
 * Add support for rax120v2.
 * Fix fix some little bugs.
-#### swrt：
+#### swrt:
 * Fix changing username/password failed.
 * Fix httpd crash.
 * Add support for sbrac3200p.
@@ -24,7 +37,7 @@
 #### 5.2.3
 
 * Use haveged instead of jitterentropy-rngd.  
-#### swrt mod：
+#### swrt mod:
 * Brcm ax models merged with 388_22525.
 * Add support for rt-ax88u_pro.
 * Add support for tuf-ax3000_v2.
@@ -32,7 +45,7 @@
 * Add support for gt6.
 * Fix failed to format jffs for HND 5.04 models.
 * Fix the network will be disconnected when rebooting aimesh node(The ip of the node is the same as the ip of the gateway).
-#### swrt：
+#### swrt:
 * Fix missing samba for rt-acrh17.
 * Update mt7915/mt798x driver to latest.
 * Add 169-177 channel support for mt7915/mt798x(not all regions).
@@ -46,9 +59,9 @@
 * Fix the problem that usb enclosures cannot be mounted.
 * Add lua.
 * Add entware mirror server for chinese.
-#### swrt mod：
+#### swrt mod:
 * Backport httpd ipv6 support for qca models.  
-#### swrt：
+#### swrt:
 * Backport 388.31345.
 * Optimize usb read and write performance.
 * Fix rt-ac85p switch light.
@@ -56,12 +69,12 @@
 
 ### 5.2.0
 * Update softcenter to the lastest version.
-#### swrt mod：
+#### swrt mod:
 * Brcm ac models merged with 386.49xxx.
 * Brcm ax models merged with 388_21224.
 * Add support for wireguard.
 * Fix PPPoE on ipq8074 is not accelerated by hardware NAT.
-#### swrt：
+#### swrt:
 * Add mtk bsd.
 * Add support for ipq40xx.
 * Add support for mt7986.
@@ -73,13 +86,13 @@
 
 ### 5.1.9
 * Update softcenter to the lastest version.
-#### swrt mod：
+#### swrt mod:
 * Fix 5g Ethernet port speed setting for rax120.
 * Fix bad block problem of rax120.
 * Fix softcenter bug for bcm470x models.
 * Add port aggregation support for rt-ac86u.
 * Porting broadcom fullcone for qca/lantiq.
-#### swrt：
+#### swrt:
 * Adjust fonts for Chinese.
 * Fix 7615/7915 kvr roaming issues.
 * Porting broadcom fullcone.
@@ -87,7 +100,7 @@
 
 ### 5.1.8
 * Softcenter support swrt mod and swrt.
-#### swrt mod：
+#### swrt mod:
 * Add Kimetsu no Yaiba skin for rtax82u/rtax86u.
 * rtac68u/sbrac1900p/ea6700/r6300v2/dir868l merged with 386.46065.
 * rtac3100/rtac5300/rtac88u merged with 386.46065.
@@ -96,7 +109,7 @@
 * gtax11000/gtaxe11000 merged with 386.46065.
 * zenwifi-xt8/tufax5400 merged with 386.46065.
 * rtax89x merged with 386.47027.
-#### swrt：
+#### swrt:
 * rtac85p/r6800/rmac2100 swrt.
 * Update mtk kernel to 4.4.
 * Update mt76x3/mt7615/mt7915 drivers.
