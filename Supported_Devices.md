@@ -12,6 +12,7 @@ Supported Devices
  * [GT-AC5300](https://github.com/SWRT-dev/asuswrt-bcm-ac)
  * [RT-AX53U](https://github.com/SWRT-dev/swrt-gpl)
  * [RT-AX54](https://github.com/SWRT-dev/rtax54)
+ * [RT-AX3000N/RT-AX3000P/RT-AX55/RT-AX57](https://github.com/SWRT-dev/asuswrt-bcm)(new RT-AX55 is odmpid of rt-ax3000n)
  * [RT-AX55/RT-AX56U_V2](https://github.com/SWRT-dev/asuswrt-bcm) (256M/512M RAM, support bcm6755(hwver:A), unsupport bcm6756(hwver:B))
  * [RT-AX56U](https://github.com/SWRT-dev/asuswrt-bcm)
  * [RT-AX58U, RT-AX3000](https://github.com/SWRT-dev/asuswrt-bcm) (use the RT-AX58U firmware)
