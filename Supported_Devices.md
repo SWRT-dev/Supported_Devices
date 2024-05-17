@@ -60,6 +60,8 @@ Supported Devices
  * ZENWIFI-ET12
  * [ZENWIFI-XP4](https://github.com/SWRT-dev/zenwifi-xp4)
 
+ * RT-BE88U/RT-BE7200
+
 
 
 **斐讯/PHICOMM：**
