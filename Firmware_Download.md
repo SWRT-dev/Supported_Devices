@@ -47,6 +47,8 @@ Firmware Download
  * [XT12](https://mega.nz/folder/UANUBJpZ#2-zavtjy3NJdTXAhSROA5Q) [Branch:388]
  * [GT6](https://mega.nz/folder/gUsmmRLJ#FBNGK9d1IaVYlm5_9JlqLA) [Branch:388]
 
+ * RT-BE88U/RT-BE7200 [Branch:102]
+
 
 
 
