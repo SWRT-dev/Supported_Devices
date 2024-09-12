@@ -2,6 +2,17 @@
 
 ============================
 
+#### 5.2.6
+#### swrt mod:
+* Add support for rt-ax3000n.
+* gt-ac5300 merged with 386_51529.
+* Fix fix some little bugs.
+* Brcm ax models merged with 388_24353.
+* Brcm ac models merged with 386_51997.
+#### swrt:
+* Fix the compatibility issue of old ipq40xx firmware.
+* Fix some bugs.
+
 #### 5.2.5
 
 * Update smartdns to latest.
