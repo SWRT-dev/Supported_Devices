@@ -2,6 +2,17 @@
 
 ============================
 
+#### 5.2.7
+* Update softcenter to latest.
+#### swrt mod:
+* Add support for tuf-be6500.
+* Add support for rt-be86u/rt-be96u/rt-be88u/gt-be98_pro.
+#### swrt：
+* Backport new features and fixes from 102.54701.
+* Fix some bugs.
+* Add support for 360T7.
+* Fix the problem that abnormal shutdown causes emmc to fail to mount.
+
 #### 5.2.6
 #### swrt mod:
 * Add support for rt-ax3000n.
