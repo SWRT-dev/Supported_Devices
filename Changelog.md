@@ -2,6 +2,15 @@
 
 ============================
 
+#### 5.2.8
+* DDNS adds CloudFlare IPv6 support.
+* curl enable proxy support.
+#### swrt mod:
+* RT-AX89X merged with 388.33744.
+#### swrt：
+* Fixed a memory leak on the SBRAC3200P.
+* libletsencrypt add CloudFlare support.
+
 #### 5.2.7
 * Update softcenter to latest.
 #### swrt mod:
